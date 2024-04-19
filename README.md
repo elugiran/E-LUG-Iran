@@ -1,8 +1,8 @@
-### E-LUG 1402
+### E-LUG 1403
 
 | Title  | Speaker | Slides | Video |
 | ------------- | ------------- | ------------- | ------------- |
-| Rust: Benefits and Weaknesses | [Hossein Assaran](https://github.com/HosseinAssaran) | [PDF](events/1402/12/Rust.pdf) - [PPTX](events/1402/12/Rust.pptx) | [Youtube](https://www.youtube.com/@E-LUG_IRAN) - [Aparat](https://www.aparat.com/v/T7gi9) |
-| Power Saving in Embedded Linux | [Hossein Lachini](https://github.com/HosseinLachini) | [PDF](events/1402/12/PowerSaving14021208.pdf) - [ODP](events/1402/12/PowerSaving14021208.odp) | [Youtube](https://www.youtube.com/@E-LUG_IRAN) - [Aparat](https://www.aparat.com/v/T7gi9) |
+| Lessons From Android For Embedded Systems | [AbdoRahman Amani](https://github.com/adjexpress) | [PDF](events/1403/01/documents/LessonsFromAndroidForEmbeddedSystems.pdf) - [PPTX](events/1403/01/documents/LessonsFromAndroidForEmbeddedSystems.pptx) | [Youtube](https://www.youtube.com/@E-LUG_IRAN) - [Aparat](https://www.aparat.com/E_LUG_IRAN) |
+| Rust in Embedded Systems (Avantages & Applications) | [M. Moslemi AbarGhan](https://www.linkedin.com/in/mohammad-moslemi-abarghan) | [PDF](events/1403/01/documents/RustinEmbeddedSystemsAvantagesApplications.pdf) - [PPTX](events/1403/01/documents/RustinEmbeddedSystemsAvantagesApplications.pptx) | [Youtube](https://www.youtube.com/@E-LUG_IRAN) - [Aparat](https://www.aparat.com/E_LUG_IRAN) |
 
-![Poster 1402-12](events/1402/12/poster_en.jpeg)
+![Poster 1403-01](events/1403/01/documents/poster_fa.jpg)
